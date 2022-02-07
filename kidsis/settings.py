@@ -26,7 +26,7 @@ SECRET_KEY = '3&o*@r4*w@(8bnk+h!lpm6xy=a%pm$(9f8j1n&v7dk*==ik)(d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kidsis.herokuapp.com']
+ALLOWED_HOSTS = ['kidsis.herokuapp.com','127.0.0.1']
 
 
 # Application definition
